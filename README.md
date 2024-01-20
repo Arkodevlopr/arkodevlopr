@@ -8,7 +8,7 @@
 ---
 Olá, me chamo Ian(Arko).
 --- 
-Meus objetivos:
+E eu tenho alguns objetivos sinta-se livre para olhar:
   * Resolver problemas. 🔭
   * Ajudar pessoas.                                                          
   * Desenvolver aplicativos para um mundo melhor, tanto ecologicamente como socialmente. 🌳
