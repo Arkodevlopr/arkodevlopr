@@ -8,10 +8,13 @@
 ---
 Olá, me chamo Ian(Arko).
 --- 
-Meus objetivos com a programação:
+Meus objetivos:
   * Resolver problemas. 🔭
   * Ajudar pessoas.                                                          
   * Desenvolver aplicativos para um mundo melhor, tanto ecologicamente como socialmente. 🌳
+  * Ser melhor no que eu faço.
+  * Trocar de faixa.
+  * Ter disciplina.
 ---
  # Opa! Quer falar comigo? Links úteis:
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLHLo2Tjukr_nMlrAarzUxA)
@@ -20,8 +23,6 @@ Meus objetivos com a programação:
   [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conta.iandavid@gmail.com)
   [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/344335/dykmn)
   
----
-# Eu sei que está complicado mas continue escrolando!
 ---
 ![image](https://github.com/Arkodevlopr/arkodevlopr/assets/157071696/b3cb0a7c-c389-4b6e-98fe-f9a96ffce7c8)
 
